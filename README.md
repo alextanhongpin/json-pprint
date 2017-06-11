@@ -1,3 +1,4 @@
+
 # JSON Pretty Print
 
 A CLI tool that pretty prints your json file so that it looks neater. Will automatically indent your file with 2 spaces.
