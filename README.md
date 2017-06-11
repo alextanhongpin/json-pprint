@@ -7,7 +7,7 @@ A CLI tool that pretty prints your json file so that it looks neater. Will autom
 
 Install globally so that you can invoke it anywhere:
 ```bash
-$ npm i -g json-pprint
+$ npm i -g json-pprint-cli
 ```
 
 ## Usage

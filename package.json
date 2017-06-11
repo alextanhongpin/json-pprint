@@ -1,6 +1,6 @@
 {
-  "name": "json-pprint",
-  "version": "1.0.1",
+  "name": "json-pprint-cli",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
